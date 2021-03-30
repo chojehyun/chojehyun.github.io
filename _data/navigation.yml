@@ -1,5 +1,5 @@
 main:
-  - title: "About"
+  - title: "CV"
     url: /about/#page #-title
   - title: "Algorithm"
     url: /Algorithm/
