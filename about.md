@@ -8,6 +8,7 @@ date: "2021-02-27 18:47:00 +0900"
 last_modified_at: "2021-03-01 10:19:00 +0900"
 ---
 Yonsei University at Seoul, Republic of Korea, A510 Building of Engineering, 50, Yonsei-ro, Seodaemun-gu 
+
 Jkun86@naver.com
 
 
@@ -29,6 +30,7 @@ February 2012
 ## Honors and Awards
 
 •	Gold prize, ‘IoT-based intellectual building evacuation system: exit sign networking platform’, Hyundai E&C Technology Grand Award, 2017
+
 •	Excellence prize, ‘Smart exit sign system simulation’, Digital Architecture, 2015
 
 
@@ -45,8 +47,10 @@ February 2012
 
 •	Patent-Registered (Domestic)
 -	Serverless smart exit sign, smart exit sign system and method for controlling smart exit signs without a central server, 10-1582761, South Korea, 2014
+
 •	Patent-Pending (International)
 -	“An information management system for automation of construction project information management and Construction project information management method using a chat platform”, PCT, PCT/KR2018/002199, 2018 
+
 •	Patent-Pending (Domestic)
 -	“Auto-generation system of 4D Building Information Modeling animation”, 10-2018-0158167, South Korea, 2018
 
