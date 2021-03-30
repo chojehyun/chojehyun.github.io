@@ -77,7 +77,7 @@ February 2012</div>
 <div style="text-align: justify"> -	Kim, H., Lee, G. and Cho, J. (2018) "Prototype development and test of a server-independent smart exit sign system: An algorithm, a hardware configuration, and its communication reliability" Automation in Construction 90, 213-222. </div>
 <div style="text-align: justify"> -	Cho, J., Lee, G. and Lee, S. (2015). "An automated direction setting algorithm for a smart exit sign." Automation in Construction, 59, 139-148. </div>
 
-
+<br>
 •	Conference Paper(International)
 <div style="text-align: justify"> -	Kim, H., Lee, G., Cho, J. (2016). "Derivation of the factors influencing the network performance of serverless smart exit sign systems based on wireless sensor networks.", ISARC 2016 - 33rd International Symposium on Automation and Robotics in Construction.</div>
 <div style="text-align: justify"> -	Cho, J., Lee, G., Lee, S., Kim, H. (2015). "Development of a Server-Independent Algorithm for Safe Evacuation Systems Utilizing Exit Signs.", ISARC. Proceedings of the International Symposium on Automation and Robotics in Construction, Oulu, Finland, IAARC Publications.</div> 
