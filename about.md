@@ -20,8 +20,7 @@ Jkun86@naver.com
 
 Yonsei University,
 
-<div style="text-align: justify">
-Integrated Ph.D. student, Department of Architecture and Architectural Engineering 
+<div style="text-align: justify">Integrated Ph.D. student, Department of Architecture and Architectural Engineering 
 August 2013 – Present</div>
 
 <div style="text-align: justify">Seoul National University of Science and Technology 
