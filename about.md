@@ -70,7 +70,7 @@ February 2012
 -	Cho, J., Lee, G., Won, J., Ryu, E. (2014). "Application of dijkstra's algorithm in the smart exit sign. 31st International Symposium on Automation and Robotics in Construction and Mining", ISARC 2014 – Proceedings.
 
 ## Language Skills
-•	English: Intermediate
+•	English: Intermediate <br/>
 •	Korean: Mother tongue
 
 
