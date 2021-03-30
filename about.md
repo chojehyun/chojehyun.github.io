@@ -14,22 +14,23 @@ Jkun86@naver.com
 
 ## Personal Statement
 
-<div style="text-align: justify"><span style="font-size: 20px;font-weight: bold;">Since:</span><span> As a Ph.D. candidate, I am working as a research associate in BIG (building informatics group) laboratory at Yonsei University. Currently, I am conducting research on development of construction project management system based on NLP (natural language processing) technology. Also, I have conducted research on the development of IoT-based smart exit sign system which is for evacuation guidance in buildings. From the research projects I have been involved in, I have learned software development management skills including analyzing and defining system requirements, designing system architectures, and detailed UI/UX of the system. Also through developing several prototype systems, I have learned programming software including Visual studio, Android studio, node.js, and Unity 3D. I believe my best ability is to explain to others the knowledge and logic that I have at an easily understandable level. </span> </div>
-
+<div style="text-align: justify"><span style="font-size: 20px;font-weight: bold;">Since:</span><span> As a Ph.D. candidate, I am working as a research associate in BIG (building informatics group) laboratory at Yonsei University. Currently, I am conducting research on development of construction project management system based on NLP (natural language processing) technology. Also, I have conducted research on the development of IoT-based smart exit sign system which is for evacuation guidance in buildings. From the research projects I have been involved in, I have learned software development management skills including analyzing and defining system requirements, designing system architectures, and detailed UI/UX of the system. Also through developing several prototype systems, I have learned programming software including Visual studio, Android studio, node.js, and Unity 3D. I believe my best ability is to explain to others the knowledge and logic that I have at an easily understandable level. </span> 
 ## Education 
 
-Yonsei University, 
-Integrated Ph.D. student, Department of Architecture and Architectural Engineering 
-August 2013 – Present
+Yonsei University,
 
-Seoul National University of Science and Technology 
+<div style="text-align: justify">
+Integrated Ph.D. student, Department of Architecture and Architectural Engineering 
+August 2013 – Present</div>
+
+<div style="text-align: justify">Seoul National University of Science and Technology 
 Bachelor of engineering, Department of Architectural Engineering
-February 2012
+February 2012</div>
 
 
 ## Honors and Awards
 
-•	Gold prize, ‘IoT-based intellectual building evacuation system: exit sign networking platform’, Hyundai E&C Technology Grand Award, 2017
+•	<div style="text-align: justify">Gold prize, ‘IoT-based intellectual building evacuation system: exit sign networking platform’, Hyundai E&C Technology Grand Award, 2017 </div>
 
 •	Excellence prize, ‘Smart exit sign system simulation’, Digital Architecture, 2015
 
