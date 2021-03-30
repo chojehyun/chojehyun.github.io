@@ -24,6 +24,7 @@ Yonsei University,
  
 August 2013 – Present</div>
 
+
 Seoul National University of Science and Technology,
 
 <div style="text-align: justify">Bachelor of engineering, Department of Architectural Engineering 
@@ -52,8 +53,10 @@ February 2012</div>
 •	Patent-Registered (Domestic)
 <div style="text-align: justify">-	Serverless smart exit sign, smart exit sign system and method for controlling smart exit signs without a central server, 10-1582761, South Korea, 2014 </div>
 
+
 •	Patent-Pending (International)
 <div style="text-align: justify">-	“An information management system for automation of construction project information management and Construction project information management method using a chat platform”, PCT, PCT/KR2018/002199, 2018 </div>
+
 
 •	Patent-Pending (Domestic)
 <div style="text-align: justify">-	“Auto-generation system of 4D Building Information Modeling animation”, 10-2018-0158167, South Korea, 2018</div>
