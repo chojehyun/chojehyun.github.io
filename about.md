@@ -1,6 +1,6 @@
 ---
 layout: single
-title: About
+title: Je Hyun Cho 
 author_profile: true
 
 
@@ -51,15 +51,15 @@ February 2012</div>
 ### Intellectual Properties
 
 •	Patent-Registered (Domestic)
-<div style="text-align: justify">-	Serverless smart exit sign, smart exit sign system and method for controlling smart exit signs without a central server, 10-1582761, South Korea, 2014 </div>
+<div style="text-align: justify">-	Serverless smart exit sign, smart exit sign system and method for controlling smart exit signs without a central server, 1015827610000 (2015.12.29), South Korea, 2015 </div>
 
 
 •	Patent-Pending (International)
 <div style="text-align: justify">-	“An information management system for automation of construction project information management and Construction project information management method using a chat platform”, PCT, PCT/KR2018/002199, 2018 </div>
 
 
-•	Patent-Pending (Domestic)
-<div style="text-align: justify">-	“Auto-generation system of 4D Building Information Modeling animation”, 10-2018-0158167, South Korea, 2018</div>
+•	Patent-Registered (Domestic)
+<div style="text-align: justify">-	“Auto-generation system of 4D Building Information Modeling animation”, 1020917210000 (2020.03.16), South Korea, 2020</div>
 
 
 
