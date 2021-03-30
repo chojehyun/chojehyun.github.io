@@ -62,14 +62,14 @@ February 2012
 ### Publications
 
 •	Journal Paper
--	Kim, H., Lee, G. and Cho, J. (2018) "Prototype development and test of a server-independent smart exit sign system: An algorithm, a hardware configuration, and its communication reliability" Automation in Construction 90, 213-222.
--	Cho, J., Lee, G. and Lee, S. (2015). "An automated direction setting algorithm for a smart exit sign." Automation in Construction, 59, 139-148.
+ -	Kim, H., Lee, G. and Cho, J. (2018) "Prototype development and test of a server-independent smart exit sign system: An algorithm, a hardware configuration, and its communication reliability" Automation in Construction 90, 213-222.
+ -	Cho, J., Lee, G. and Lee, S. (2015). "An automated direction setting algorithm for a smart exit sign." Automation in Construction, 59, 139-148.
 
 
 •	Conference Paper(International)
--	Kim, H., Lee, G., Cho, J. (2016). "Derivation of the factors influencing the network performance of serverless smart exit sign systems based on wireless sensor networks.", ISARC 2016 - 33rd International Symposium on Automation and Robotics in Construction.
--	Cho, J., Lee, G., Lee, S., Kim, H. (2015). "Development of a Server-Independent Algorithm for Safe Evacuation Systems Utilizing Exit Signs.", ISARC. Proceedings of the International Symposium on Automation and Robotics in Construction, Oulu, Finland, IAARC Publications. 
--	Cho, J., Lee, G., Won, J., Ryu, E. (2014). "Application of dijkstra's algorithm in the smart exit sign. 31st International Symposium on Automation and Robotics in Construction and Mining", ISARC 2014 – Proceedings.
+ -	Kim, H., Lee, G., Cho, J. (2016). "Derivation of the factors influencing the network performance of serverless smart exit sign systems based on wireless sensor networks.", ISARC 2016 - 33rd International Symposium on Automation and Robotics in Construction.
+ -	Cho, J., Lee, G., Lee, S., Kim, H. (2015). "Development of a Server-Independent Algorithm for Safe Evacuation Systems Utilizing Exit Signs.", ISARC. Proceedings of the International Symposium on Automation and Robotics in Construction, Oulu, Finland, IAARC Publications. 
+ -	Cho, J., Lee, G., Won, J., Ryu, E. (2014). "Application of dijkstra's algorithm in the smart exit sign. 31st International Symposium on Automation and Robotics in Construction and Mining", ISARC 2014 – Proceedings.
 
 ## Language Skills
 •	English: Intermediate <br/>  
