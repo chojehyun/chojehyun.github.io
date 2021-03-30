@@ -38,7 +38,7 @@ February 2012</div>
 
 <div style="text-align: justify">•	Excellence prize, ‘Smart exit sign system simulation’, Digital Architecture, 2015 </div>
 
-[<span style="color:white">text•	Excellence prize, ‘Smart exit sign system simulation’, Digital Architecture, 2015.</span>](https://www.aik.or.kr/html/page06_04_03.jsp)
+[<span style="color:white">•	Excellence prize, ‘Smart exit sign system simulation’, Digital Architecture, 2015.</span>](https://www.aik.or.kr/html/page06_04_03.jsp)
 
 ## Academic Experience
 
