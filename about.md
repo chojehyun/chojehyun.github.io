@@ -51,36 +51,36 @@ February 2012</div>
 ## Intellectual Properties
 
 •	Patent-Registered (Domestic)
-<div style="text-align: justify">-	Serverless smart exit sign, smart exit sign system and method for controlling smart exit signs without a central server, 1015827610000 (2015.12.29), South Korea, 2015 </div>
+<div style="text-align: justify"> -	Serverless smart exit sign, smart exit sign system and method for controlling smart exit signs without a central server, 1015827610000 (2015.12.29), South Korea, 2015 </div>
 
 
 •	Patent-Pending (International)
-<div style="text-align: justify">-	“An information management system for automation of construction project information management and Construction project information management method using a chat platform”, PCT, PCT/KR2018/002199, 2018 </div>
+<div style="text-align: justify"> -	“An information management system for automation of construction project information management and Construction project information management method using a chat platform”, PCT, PCT/KR2018/002199, 2018 </div>
 
 
 •	Patent-Registered (Domestic)
-<div style="text-align: justify">-	“Auto-generation system of 4D Building Information Modeling animation”, 1020917210000 (2020.03.16), South Korea, 2020</div>
+<div style="text-align: justify"> -	“Auto-generation system of 4D Building Information Modeling animation”, 1020917210000 (2020.03.16), South Korea, 2020</div>
 
 
 
 ## Research Experience
 
 •	Research Associate
--	National HRD support program for convergence information technology: Smart exit sign system, 2013-2014, MKE (The Ministry of Knowledge Economy), South Korea
--	Development of BIM-based Standard Management Technology for Railway Infrastructure, 2016.05 – 2017.02, Ministry of Land, Infrastructure and Transport, South Korea
--	Development of the Smart Field Platform for planning and Managing building construction, 2017.04 - 2019.03
+<div style="text-align: justify">-	National HRD support program for convergence information technology: Smart exit sign system, 2013-2014, MKE (The Ministry of Knowledge Economy), South Korea </div>
+<div style="text-align: justify">-	Development of BIM-based Standard Management Technology for Railway Infrastructure, 2016.05 – 2017.02, Ministry of Land, Infrastructure and Transport, South Korea </div>
+<div style="text-align: justify">-	Development of the Smart Field Platform for planning and Managing building construction, 2017.04 - 2019.03 </div>
 
 ## Publications
 
 •	Journal Paper
- -	Kim, H., Lee, G. and Cho, J. (2018) "Prototype development and test of a server-independent smart exit sign system: An algorithm, a hardware configuration, and its communication reliability" Automation in Construction 90, 213-222.
- -	Cho, J., Lee, G. and Lee, S. (2015). "An automated direction setting algorithm for a smart exit sign." Automation in Construction, 59, 139-148.
+<div style="text-align: justify"> -	Kim, H., Lee, G. and Cho, J. (2018) "Prototype development and test of a server-independent smart exit sign system: An algorithm, a hardware configuration, and its communication reliability" Automation in Construction 90, 213-222. </div>
+<div style="text-align: justify"> -	Cho, J., Lee, G. and Lee, S. (2015). "An automated direction setting algorithm for a smart exit sign." Automation in Construction, 59, 139-148. </div>
 
 
 •	Conference Paper(International)
- -	Kim, H., Lee, G., Cho, J. (2016). "Derivation of the factors influencing the network performance of serverless smart exit sign systems based on wireless sensor networks.", ISARC 2016 - 33rd International Symposium on Automation and Robotics in Construction.
- -	Cho, J., Lee, G., Lee, S., Kim, H. (2015). "Development of a Server-Independent Algorithm for Safe Evacuation Systems Utilizing Exit Signs.", ISARC. Proceedings of the International Symposium on Automation and Robotics in Construction, Oulu, Finland, IAARC Publications. 
- -	Cho, J., Lee, G., Won, J., Ryu, E. (2014). "Application of dijkstra's algorithm in the smart exit sign. 31st International Symposium on Automation and Robotics in Construction and Mining", ISARC 2014 – Proceedings.
+<div style="text-align: justify"> -	Kim, H., Lee, G., Cho, J. (2016). "Derivation of the factors influencing the network performance of serverless smart exit sign systems based on wireless sensor networks.", ISARC 2016 - 33rd International Symposium on Automation and Robotics in Construction.</div>
+<div style="text-align: justify"> -	Cho, J., Lee, G., Lee, S., Kim, H. (2015). "Development of a Server-Independent Algorithm for Safe Evacuation Systems Utilizing Exit Signs.", ISARC. Proceedings of the International Symposium on Automation and Robotics in Construction, Oulu, Finland, IAARC Publications.</div> 
+<div style="text-align: justify"> -	Cho, J., Lee, G., Won, J., Ryu, E. (2014). "Application of dijkstra's algorithm in the smart exit sign. 31st International Symposium on Automation and Robotics in Construction and Mining", ISARC 2014 – Proceedings.</div>
 
 ## Language Skills
 •	English: Intermediate  
