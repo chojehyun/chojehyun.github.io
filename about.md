@@ -53,7 +53,7 @@ February 2012</div>
 •	Patent-Registered (Domestic)
 <div style="text-align: justify"> -	Serverless smart exit sign, smart exit sign system and method for controlling smart exit signs without a central server, 1015827610000 (2015.12.29), South Korea, 2015 </div>
 
-<div style="text-align: justify"> -	“Auto-generation system of 4D Building Information Modeling animation”, 1020917210000 (2020.03.16), South Korea, 2020</div>
+<div style="text-align: justify"> -	“Auto-generation system of 4D Building Information Modeling animation”, 1020917210000 (2020.03.16), South Korea, 2020</div>  
 
 
 
