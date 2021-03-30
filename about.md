@@ -24,7 +24,7 @@ Yonsei University,
  
 August 2013 – Present</div>
 
-
+<br>
 Seoul National University of Science and Technology,
 
 <div style="text-align: justify">Bachelor of engineering, Department of Architectural Engineering 
