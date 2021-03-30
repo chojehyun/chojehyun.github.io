@@ -21,16 +21,19 @@ Jkun86@naver.com
 Yonsei University,
 
 <div style="text-align: justify">Integrated Ph.D. student, Department of Architecture and Architectural Engineering 
+ 
 August 2013 – Present</div>
 
-<div style="text-align: justify">Seoul National University of Science and Technology 
-Bachelor of engineering, Department of Architectural Engineering
+Seoul National University of Science and Technology,
+
+<div style="text-align: justify">Bachelor of engineering, Department of Architectural Engineering 
+ 
 February 2012</div>
 
 
 ## Honors and Awards
 
-•	<div style="text-align: justify"> Gold prize, ‘IoT-based intellectual building evacuation system: exit sign networking platform’, Hyundai E&C Technology Grand Award, 2017 </div>
+<div style="text-align: justify">•	 Gold prize, ‘IoT-based intellectual building evacuation system: exit sign networking platform’, Hyundai E&C Technology Grand Award, 2017 </div>
 
 <div style="text-align: justify">•	Excellence prize, ‘Smart exit sign system simulation’, Digital Architecture, 2015 </div>
 
