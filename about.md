@@ -1,6 +1,6 @@
 ---
 layout: single
-title: About
+title: About2
 author_profile: true
 
 
