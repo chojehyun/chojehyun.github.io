@@ -34,11 +34,12 @@ February 2012</div>
 
 ## Honors and Awards
 
-<div style="text-align: justify">•	 Gold prize, ‘IoT-based intellectual building evacuation system: exit sign networking platform’, Hyundai E&C Technology Grand Award, 2017 [Article](https://tv.hmgjournal.com/MediaCenter/News/Group-Broadcast/news-03-171012.blg) </div>
+<div style="text-align: justify">•	 Gold prize, ‘IoT-based intellectual building evacuation system: exit sign networking platform’, Hyundai E&C Technology Grand Award, 2017  </div>
+[<span style="color:white">link</span>](https://tv.hmgjournal.com/MediaCenter/News/Group-Broadcast/news-03-171012.blg)
 
 <div style="text-align: justify">•	Excellence prize, ‘Smart exit sign system simulation’, Digital Architecture, 2015 </div>
 
-[<span style="color:white">•	Excellence prize, ‘Smart exit sign system simulation’, Digital Architecture, 2015.</span>](https://www.aik.or.kr/html/page06_04_03.jsp)
+[<span style="color:white">link</span>](https://www.aik.or.kr/html/page06_04_03.jsp)
 
 ## Academic Experience
 
