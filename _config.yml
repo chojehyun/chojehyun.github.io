@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Je Hyun, Cho"
   avatar           : "/assets/images/bio.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Ph.D candidate in Architecture and Architectural Engineering, Yonsei University"
+  bio              : "Ph.D. candidate in Architecture and Architectural Engineering, Yonsei University"
   location         : #"Korea, Somewhere"
   email            : #"choijj1993@gmail.com"
   links:
