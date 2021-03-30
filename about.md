@@ -59,7 +59,7 @@ February 2012
 -	Development of BIM-based Standard Management Technology for Railway Infrastructure, 2016.05 – 2017.02, Ministry of Land, Infrastructure and Transport, South Korea
 -	Development of the Smart Field Platform for planning and Managing building construction, 2017.04 - 2019.03
 
-### Publications
+## Publications
 
 •	Journal Paper
  -	Kim, H., Lee, G. and Cho, J. (2018) "Prototype development and test of a server-independent smart exit sign system: An algorithm, a hardware configuration, and its communication reliability" Automation in Construction 90, 213-222.
