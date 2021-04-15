@@ -38,7 +38,7 @@ February 2012</div>
 
 [<span style="color:white">link</span>](https://tv.hmgjournal.com/MediaCenter/News/Group-Broadcast/news-03-171012.blg)
 
-<div style="text-align: justify">•	Excellence prize, ‘Smart exit sign system simulation’, Digital Architecture, 2015 </div>
+<div style="text-align: justify">•	Excellence prize, ‘Smart exit sign system simulation’, Digital Architecture, Architectural Institute of Korea 2015 </div>
 
 [<span style="color:white">link</span>](https://www.aik.or.kr/html/page06_04_03.jsp)
 
@@ -70,9 +70,14 @@ February 2012</div>
 
 •	Research Associate
 <div style="text-align: justify">-	National HRD support program for convergence information technology: Smart exit sign system, 2013-2014, MKE (The Ministry of Knowledge Economy), South Korea </div>
+<br>
 <div style="text-align: justify">-	Development of BIM-based Standard Management Technology for Railway Infrastructure, 2016.05 – 2017.02, Ministry of Land, Infrastructure and Transport, South Korea </div>
+<br>
 <div style="text-align: justify">-	Development of the Smart Field Platform for planning and Managing building construction, 2017.04 - 2019.03 </div>
-
+<br>
+<div style="text-align: justify">- Digitizing construction project requirements using artificial intelligence and natural language processing </div>
+ 
+ 
 ## Publications
 
 •	Journal Paper
@@ -81,6 +86,8 @@ February 2012</div>
 
 <br>
 •	Conference Paper(International)
+<div style="text-align: justify"> - Lee, G., Cho, J., Song, T., Roh, H., Jung, J., Chung, J., ... & Jeong, D. (2020, August). Construction Field Management Using a Popular Text Messenger. In International Conference on Computing in Civil and Building Engineering (pp. 971-979). Springer, Cham.</div>
+<div style="text-align: justify"> - Cho, J., and G. Lee. (2019). "A chatbot system for construction daily report information management.", ISARC. Proceedings of the International Symposium on Automation and Robotics in Construction, Banff, Canada, IAARC Publications.</div> 
 <div style="text-align: justify"> -	Kim, H., Lee, G., Cho, J. (2016). "Derivation of the factors influencing the network performance of serverless smart exit sign systems based on wireless sensor networks.", ISARC 2016 - 33rd International Symposium on Automation and Robotics in Construction.</div>
 <div style="text-align: justify"> -	Cho, J., Lee, G., Lee, S., Kim, H. (2015). "Development of a Server-Independent Algorithm for Safe Evacuation Systems Utilizing Exit Signs.", ISARC. Proceedings of the International Symposium on Automation and Robotics in Construction, Oulu, Finland, IAARC Publications.</div> 
 <div style="text-align: justify"> -	Cho, J., Lee, G., Won, J., Ryu, E. (2014). "Application of dijkstra's algorithm in the smart exit sign. 31st International Symposium on Automation and Robotics in Construction and Mining", ISARC 2014 – Proceedings.</div>
