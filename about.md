@@ -7,7 +7,7 @@ toc: true #Table of Contents
 date: "2021-02-27 18:47:00 +0900"
 last_modified_at: "2021-03-01 10:19:00 +0900"
 ---
-Yonsei University at Seoul, Republic of Korea, A510 Building of Engineering, 50, Yonsei-ro, Seodaemun-gu 
+Yonsei University at Seoul, Republic of Korea, A601-5 Building of Engineering, 50, Yonsei-ro, Seodaemun-gu 
 
 Jkun86@naver.com
 
